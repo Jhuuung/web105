@@ -1,0 +1,59 @@
+commit 7d3d404aa4f77aa25c575cf8fb28b11ba839fb83
+Author: Jhuuung <150590985+Jhuuung@users.noreply.github.com>
+Date:   Fri Mar 15 02:07:12 2024 +0800
+
+    Delete B1-2020300226-123456 directory
+
+commit aa3d888fd54417c27fac68fe1cb04a8501854746
+Author: Arjhon <arjhon.perezquizon@gmail.com>
+Date:   Fri Mar 15 01:46:06 2024 +0800
+
+    5th Commit
+
+commit bc0e9fab7eae0b5811bddbfc3b3142bc77b38911
+Author: Arjhon <arjhon.perezquizon@gmail.com>
+Date:   Fri Mar 15 01:02:38 2024 +0800
+
+    first commit
+
+commit 6fa527030feb24cc8d11b4dd4158a20bc8ca1a16
+Author: Jhuuung <150590985+Jhuuung@users.noreply.github.com>
+Date:   Fri Mar 15 00:58:09 2024 +0800
+
+    Delete B1-2020300226-123456 directory
+
+commit 7b227cdb790a64e451665bbacd8a60c3f54a9025
+Author: Arjhon <arjhon.perezquizon@gmail.com>
+Date:   Fri Mar 15 00:05:15 2024 +0800
+
+    Added instruction file
+
+commit 80485b714d5a168f05ecc81e495cc4583970f0bf
+Author: Arjhon <arjhon.perezquizon@gmail.com>
+Date:   Thu Mar 14 23:54:55 2024 +0800
+
+    Added instructor log file
+
+commit 65416ddf62b4874ce5ab5ddf5d2c04601db7d10a
+Author: Arjhon <arjhon.perezquizon@gmail.com>
+Date:   Thu Mar 14 23:44:39 2024 +0800
+
+    uncheck_option
+
+commit 0ed4b8a371206ba811307223d89274cc3df0acc0
+Author: Arjhon <arjhon.perezquizon@gmail.com>
+Date:   Thu Mar 14 23:43:25 2024 +0800
+
+    port_number
+
+commit 3cc4643867c70bd64b5e126fec5b25579d32a201
+Author: Arjhon <arjhon.perezquizon@gmail.com>
+Date:   Thu Mar 14 23:22:57 2024 +0800
+
+    Added files containing vowels, consonants, secret files and student number
+
+commit 7f32af5ff6ea59381d1fa553e6187a71630cad5b
+Author: Jhuuung <150590985+Jhuuung@users.noreply.github.com>
+Date:   Thu Feb 1 21:39:56 2024 +0800
+
+    Initial commit
